@@ -29,7 +29,7 @@ msgstr ""
 #, fuzzy, python-brace-format
 #| msgid "Enter a valid phone number."
 msgid "Enter a valid phone number (e.g. {example_number})."
-msgstr "Ingrese un número de teléfono válido."
+msgstr "Ingrese un número de teléfono válido  (ej.: {example_number})."
 
 #: modelfields.py:51
 msgid "Phone number"
